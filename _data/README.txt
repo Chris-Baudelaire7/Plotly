@@ -1,0 +1,3 @@
+CO2PPM.csv is licensed under the Nasa Earth Science Data Policy (https://earthdata.nasa.gov/nasa-data-policy), and the source data is available at ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.txt
+GlobalTemperatureData.csv is licensed under the Nasa Earth Science Data Policy (https://earthdata.nasa.gov/nasa-data-policy), and the source data is available at https://climate.nasa.gov/system/internal_resources/details/original/647_Global_Temperature_Data_File.txt
+UKBirdPopulationChangeIndex1970-2014.csv is licensed under the UK Government license (http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), and the source data is available at https://data.gov.uk/dataset/wild_bird_populations
