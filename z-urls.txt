@@ -1,3 +1,19 @@
-https://python-graph-gallery.com/524-area-chart-over-flexible-baseline/
+GENERAL-------------------------
 
 https://medium.com/@jeremycolon24/adventures-in-plotly-pie-charts-fbc41b7d48c6
+
+https://python-graph-gallery.com/timeseries/
+
+LINE----------------------------
+
+https://python-graph-gallery.com/524-area-chart-over-flexible-baseline/
+
+MAP-------------------------------
+
+https://blog.plotly.com/post/171585173862/how-to-create-2d-and-3d-interactive-weather-maps
+
+https://plotly18.rssing.com/chan-55892197/article84-live.html
+
+BAR-------------------------------
+
+https://community.plotly.com/t/control-distance-between-stacked-bars/75303/3
